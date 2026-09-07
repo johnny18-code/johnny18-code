@@ -8,4 +8,4 @@ NationalGrid-Customer/1 App Support;<br>
 - ⚙️ Knowledge in: `.py-desktop-gui`, `.ai-just asking it lol`, `.html`, `.css`, `.javascript`
 - 🌍 I'm mostly active within the **Mainframe Community**
 - 💅 Batch Support, Online Support, User-facing issue resolution, Abend-Fix, Batch enhancement and automation, etc…
-- 💬 `ping` me about **Mainframe** - #JohnDeGuzman@ibm.com
+- 💬 `ping` me about **Mainframe** - #John.De.Guzman@ibm.com
